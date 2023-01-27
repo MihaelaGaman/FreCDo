@@ -14,7 +14,7 @@ You are free to **share** (copy and redistribute the material in any medium or f
 
 Please cite the corresponding work (see citation.bib file to obtain the citation in BibTex format) if you use this data set and software (or a modified version of it) in any scientific work:
 
-**[1] Gaman, Mihaela, Adrian-Gabriel Chifu, William Domingues, and Radu Tudor Ionescu. "FreCDo: A Large Corpus for French Cross-Domain Dialect Identification." arXiv preprint arXiv:2212.07707 (2022). [(link to paper)](https://arxiv.org/abs/2212.07707).**
+**[1] Gaman, Mihaela, Adrian-Gabriel Chifu, William Domingues, and Radu Tudor Ionescu. "FreCDo: A Large Corpus for French Cross-Domain Dialect Identification." arXiv preprint arXiv:2212.07707 (2022). [(link to paper)](https://arxiv.org/abs/2212.07707)**
 
 
 ## 3. Description
