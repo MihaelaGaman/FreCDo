@@ -29,12 +29,16 @@ The FreCDo data set contains French, Swiss, Belgian and Canadian samples of text
 
 The training data contains the following files:
 
-	train.txt - training set
+	train-01.txt to train-06.txt - training set
 	train.labels - training labels
 	dev.txt - development/validation set
 	dev.labels - development/validation labels
 	test.txt - test set
 	test.labels - test labels
+
+Use the following command to join the training files.
+
+	cat train-0*.txt > train.txt 
 	
 Each line in the *.txt files is tab-delimited in the format:
 
