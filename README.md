@@ -24,7 +24,7 @@ Please cite the corresponding work (see citation.bib file to obtain the citation
 
 The task is to train a model on news samples collected from a set of publication sources and evaluate it on news samples collected from a different set of publication sources. Not only the sources are different, but also the topics. Therefore, the task is to build a model for a cross-domain 4-way classification by dialect task, in which a classification model is required to discriminate between the French (FH), Swiss (CH), Belgian (BE) and Canadian (CA) dialects across different news samples. 
 
-The FreCDo data set contains French, Swiss, Belgian and Canadian samples of text collected from the news domain. The corpus is divided into training, validation and test, such that the publication sources and topics are distinct across splits. The training set contains 358,787 samples. The development set is composed of 18,002 samples. Another set of 36,733 samples are kept for testing. All samples are preprocessed in order to replace named entities with a special tag: $NE$. For more details, please refer to the paper [1].
+The FreCDo data set contains French, Swiss, Belgian and Canadian samples of text collected from the news domain. The corpus is divided into training, validation and test, such that the publication sources and topics are distinct across splits. The training set contains 358,787 samples. The development set is composed of 18,002 samples. Another set of 36,733 samples are kept for testing. All samples are preprocessed in order to replace named entities with a special tag: \$NE\$. For more details, please refer to the paper [1].
 
 #### Data Organization
 
